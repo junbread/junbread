@@ -1,6 +1,4 @@
-### Junhyun Kim
-
-CS student (Undergraduate)
+Hello world 👋
 
 #### History
 
