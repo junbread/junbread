@@ -1,16 +1,20 @@
-### Hi there 👋
+### Junhyun Kim
 
-<!--
-**junbread/junbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student (Undergraduate)
 
-Here are some ideas to get you started:
+#### History
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more information, see [here](https://junbread.win/about/)
+
+- <small>**2016.11 ~ 2018.11**</small> ROKAF Information Systems Management Wing
+  - Sergeant (mandatory military service soldier)
+  - S/W development and maintenence
+- <small>**2014.03 ~ now**</small> [Sungkyunkwan University](https://www.skku.edu/eng/)
+  - Undergraduate Student
+  - Major in [Computer Science](https://cs.skku.edu/en/)
+
+#### PGP Signature
+
+```bash
+curl https://keybase.io/junbread/pgp_keys.asc?fingerprint=a0e1219f2beb197689f7fb114a85a973bdcf6088 | gpg --import
+```
