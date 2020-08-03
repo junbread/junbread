@@ -4,7 +4,8 @@ Hello world 👋
 
 For more information, see [here](https://junbread.win/about/)
 
-- <small>**2020.07 ~ 2020.08**</small> Samsung Electronics CE/IM Software Intern 
+- <small>**2020.07 ~ 2020.08**</small> Samsung Electronics (CE/IM)
+  - Software Internship
 - <small>**2016.11 ~ 2018.11**</small> ROKAF Information Systems Management Wing
   - Sergeant (mandatory military service soldier)
   - S/W development and maintenence
