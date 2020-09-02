@@ -23,7 +23,7 @@ For more information, see [here](https://junbread.win/about/)
 
 [![junbread's Github stats](https://github-readme-stats.vercel.app/api?username=junbread)](https://github.com/anuraghazra/github-readme-stats)
 
-#### PGP Signature
+#### [PGP Signature](https://keybase.io/junbread/pgp_keys.asc?fingerprint=a0e1219f2beb197689f7fb114a85a973bdcf6088)
 
 ```bash
 curl https://keybase.io/junbread/pgp_keys.asc?fingerprint=a0e1219f2beb197689f7fb114a85a973bdcf6088 | gpg --import
