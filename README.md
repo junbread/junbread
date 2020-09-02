@@ -1,5 +1,10 @@
 Hello world 👋
 
+#### I'm interested in...
+
+- 🌐 Modern Web FE/BE 
+- 🔤 Natural Language Processing
+
 #### History
 
 For more information, see [here](https://junbread.win/about/)
@@ -13,6 +18,10 @@ For more information, see [here](https://junbread.win/about/)
 - <small>**2014.03 ~ now**</small> [Sungkyunkwan University](https://www.skku.edu/eng/)
   - Undergraduate Student
   - Major in [Computer Science](https://cs.skku.edu/en/)
+
+#### Github Stats
+
+[![junbread's Github stats](https://github-readme-stats.vercel.app/api?username=junbread)](https://github.com/anuraghazra/github-readme-stats)
 
 #### PGP Signature
 
