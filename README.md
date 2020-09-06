@@ -1,13 +1,13 @@
 Hello world 👋
 
+For more information, see [here](https://junbread.win/about/)
+
 #### I'm interested in...
 
-- 🌐 Modern Web FE/BE 
+- 🌐 Modern Web FE/BE
 - 🔤 Natural Language Processing
 
 #### History
-
-For more information, see [here](https://junbread.win/about/)
 
 - <small>**2020.07 ~ 2020.08**</small> Samsung Electronics (CE/IM)
   - Student Internship
