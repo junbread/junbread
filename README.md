@@ -15,9 +15,6 @@ For more information, see [here](https://junbread.win/about/)
 - <small>**2016.11 ~ 2018.11**</small> ROKAF Information Systems Management Wing
   - Staff Sergeant (mandatory military service soldier)
   - Intranet S/W development and maintenence
-- <small>**2014.03 ~ now**</small> [Sungkyunkwan University](https://www.skku.edu/eng/)
-  - Undergraduate Student
-  - Major in [Computer Science](https://cs.skku.edu/en/)
 
 #### Github Stats
 
