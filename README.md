@@ -1,20 +1,11 @@
 Hello world 👋
 
-For more information, see [here](https://junbread.win/about/)
+[Resume](https://www.notion.so/junbread/Profile-aceaf4af80134791b87b1b081f5da8b6)
 
 #### I'm interested in...
 
 - 🌐 Modern Web FE/BE
 - 🔤 Natural Language Processing
-
-#### History
-
-- <small>**2020.07 ~ 2020.08**</small> Samsung Electronics (CE/IM)
-  - Student Internship
-  - Developed TV voice assistant automated test tool 
-- <small>**2016.11 ~ 2018.11**</small> ROKAF Information Systems Management Wing
-  - Staff Sergeant (mandatory military service soldier)
-  - Intranet S/W development and maintenence
 
 #### Github Stats
 
