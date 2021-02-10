@@ -4,8 +4,8 @@ Hello world 👋
 
 #### I'm interested in...
 
-- 🌐 Modern Web FE/BE
-- 🔤 Natural Language Processing
+- 🌐 Modern Web Backend/Frontend
+- ☕ Java / Spring
 
 #### Github Stats
 
